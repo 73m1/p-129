@@ -1,0 +1,15 @@
+.heading {
+    width:100%;
+    margin:0;
+    text-align: center;
+}
+.btn-danger {
+    font-size: 27.5px;
+}
+
+canvas {
+    background-color: aliceblue;
+    border:5ps solid black;
+    border-radius:35px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
